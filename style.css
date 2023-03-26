@@ -32,6 +32,7 @@ body {
 .restaurant-details img {
   width: 40%;
   object-fit: cover;
+  max-height: 300px;
 }
 .restaurant-details.active {
   display: block;
